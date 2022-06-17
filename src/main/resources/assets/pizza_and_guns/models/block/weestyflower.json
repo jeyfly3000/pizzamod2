@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "pizza_and_guns:blocks/weasty",
+    "particle": "pizza_and_guns:blocks/weasty"
+  }
+}

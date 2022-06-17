@@ -1,0 +1,19 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "pizza_and_guns:halforeo"
+    },
+    "1": {
+      "item": "pizza_and_guns:halforeo"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:oreo",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_concrete"
+    },
+    "1": {
+      "item": "minecraft:black_concrete"
+    },
+    "2": {
+      "item": "minecraft:black_concrete"
+    },
+    "3": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:gun",
+    "count": 1
+  }
+}

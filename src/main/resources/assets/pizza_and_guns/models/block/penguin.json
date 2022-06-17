@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "pizza_and_guns:blocks/black",
+    "up": "pizza_and_guns:blocks/black",
+    "north": "pizza_and_guns:blocks/face",
+    "east": "pizza_and_guns:blocks/black",
+    "south": "pizza_and_guns:blocks/but",
+    "west": "pizza_and_guns:blocks/black",
+    "particle": "pizza_and_guns:blocks/black"
+  }
+}

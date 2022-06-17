@@ -1,0 +1,22 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "pizza_and_guns:cocobean"
+    },
+    "1": {
+      "item": "pizza_and_guns:cocobean"
+    },
+    "2": {
+      "item": "pizza_and_guns:cocobean"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:chocolate",
+    "count": 1
+  }
+}

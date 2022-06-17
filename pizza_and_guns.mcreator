@@ -1,0 +1,767 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Meatblock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meatblock"
+    },
+    {
+      "name": "Beef2meatblock",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beef_2meatblock"
+    },
+    {
+      "name": "Getmeat",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getmeat"
+    },
+    {
+      "name": "Pizza",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pizza"
+    },
+    {
+      "name": "Weestyflower",
+      "type": "plant",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "weestyflower"
+    },
+    {
+      "name": "Pee",
+      "type": "fluid",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pee"
+    },
+    {
+      "name": "Gun",
+      "type": "gun",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gun"
+    },
+    {
+      "name": "Blugoo",
+      "type": "fluid",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blugoo"
+    },
+    {
+      "name": "Blood",
+      "type": "fluid",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood"
+    },
+    {
+      "name": "Penguin",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "penguin"
+    },
+    {
+      "name": "Stuf2gun",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stuf_2gun"
+    },
+    {
+      "name": "Pankace",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pankace"
+    },
+    {
+      "name": "Deathscyth",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "deathscyth"
+    },
+    {
+      "name": "Toget",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toget"
+    },
+    {
+      "name": "Nerfbullet",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nerfbullet"
+    },
+    {
+      "name": "Nerf",
+      "type": "gun",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nerf"
+    },
+    {
+      "name": "Tobull",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tobull"
+    },
+    {
+      "name": "Dedog",
+      "type": "painting",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dedog"
+    },
+    {
+      "name": "Getthepenguin",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getthepenguin"
+    },
+    {
+      "name": "Condentedmilk",
+      "type": "food",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "condentedmilk"
+    },
+    {
+      "name": "Milkyum",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milkyum"
+    },
+    {
+      "name": "Diarrhea",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarrhea"
+    },
+    {
+      "name": "Sportyarmor",
+      "type": "armor",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sportyarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Getarmor",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getarmor"
+    },
+    {
+      "name": "Sportyleg",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sportyleg"
+    },
+    {
+      "name": "Sportychestplate",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sportychestplate"
+    },
+    {
+      "name": "Helmetsportty",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "helmetsportty"
+    },
+    {
+      "name": "Diarrheabrick",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarrheabrick"
+    },
+    {
+      "name": "Diarrheablock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarrheablock"
+    },
+    {
+      "name": "Togetdiarrheabrik",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "togetdiarrheabrik"
+    },
+    {
+      "name": "Togetdiehriablock",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "togetdiehriablock"
+    },
+    {
+      "name": "Mouse",
+      "type": "mob",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mouse"
+    },
+    {
+      "name": "Diarrheablock2brick",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarrheablock_2brick"
+    },
+    {
+      "name": "Diarrheapickaxe",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diarrheapickaxe"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Beachhouse",
+      "type": "structure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beachhouse"
+    },
+    {
+      "name": "Sportyflower",
+      "type": "plant",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sportyflower"
+    },
+    {
+      "name": "OREO",
+      "type": "food",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oreo"
+    },
+    {
+      "name": "Spidereggs",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spidereggs"
+    },
+    {
+      "name": "Spidersaac",
+      "type": "item",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spidersaac"
+    },
+    {
+      "name": "Getspidersac",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getspidersac"
+    },
+    {
+      "name": "Spiderpickaxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spiderpickaxe"
+    },
+    {
+      "name": "Getthepick",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getthepick"
+    },
+    {
+      "name": "Cocoflower",
+      "type": "plant",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cocoflower"
+    },
+    {
+      "name": "Cocobean",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cocobean"
+    },
+    {
+      "name": "Getcocobean",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getcocobean"
+    },
+    {
+      "name": "Chocolate",
+      "type": "food",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate"
+    },
+    {
+      "name": "Getchocolate",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getchocolate"
+    },
+    {
+      "name": "Oreoget",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oreoget"
+    },
+    {
+      "name": "Halforeo",
+      "type": "item",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halforeo"
+    },
+    {
+      "name": "Togethalforeo",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "togethalforeo"
+    },
+    {
+      "name": "Togetorio",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "togetorio"
+    },
+    {
+      "name": "Ratblock",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ratblock"
+    },
+    {
+      "name": "Ratessence",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ratessence"
+    },
+    {
+      "name": "Ratpickaxe",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ratpickaxe"
+    },
+    {
+      "name": "Rhino",
+      "type": "mob",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhino"
+    },
+    {
+      "name": "Horn",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horn"
+    },
+    {
+      "name": "HornPickaxe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "horn_pickaxe"
+    },
+    {
+      "name": "PupleRubyOre",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "puple_ruby_ore"
+    },
+    {
+      "name": "PurpleRuby",
+      "type": "item",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ruby"
+    },
+    {
+      "name": "Togetdepickkkkk",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "togetdepickkkkk"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "PurpleRubyBlock",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_ruby_block"
+    },
+    {
+      "name": "Beanss",
+      "type": "food",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "beanss"
+    },
+    {
+      "name": "Egg",
+      "type": "food",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "egg"
+    },
+    {
+      "name": "Eggget",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eggget"
+    },
+    {
+      "name": "Bacon",
+      "type": "food",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bacon"
+    },
+    {
+      "name": "Getbercen",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getbercen"
+    },
+    {
+      "name": "Bean",
+      "type": "food",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bean"
+    },
+    {
+      "name": "Getbene",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "getbene"
+    },
+    {
+      "name": "Baengrass",
+      "type": "plant",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "baengrass"
+    },
+    {
+      "name": "Putty",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "putty"
+    },
+    {
+      "name": "Ggput",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ggput"
+    },
+    {
+      "name": "Jhgfbean",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jhgfbean"
+    },
+    {
+      "name": "Rhinoloot",
+      "type": "loottable",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhinoloot"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.pizza_and_guns.puple_ruby_ore": "Puple Ruby Ore",
+      "item.pizza_and_guns.halforeo": "Halforeo",
+      "item.pizza_and_guns.nerf": "Nerf",
+      "item.pizza_and_guns.bean": "Bean",
+      "item.pizza_and_guns.ruby_pickaxe": "Ruby Pickaxe",
+      "item.pizza_and_guns.ratpickaxe": "Ratpickaxe",
+      "fluid.blood": "Blood",
+      "item.pizza_and_guns.diarrheabrick": "Diarrheabrick",
+      "item.pizza_and_guns.spidereggs": "Spidereggs",
+      "item.pizza_and_guns.purple_ruby": "Purple Ruby",
+      "item.pizza_and_guns.beanss": "can\u0027d beans",
+      "item.pizza_and_guns.oreo": "OREO",
+      "block.pizza_and_guns.purple_ruby_block": "Purple Ruby Block",
+      "block.pizza_and_guns.weestyflower": "Weestyflower",
+      "block.pizza_and_guns.meatblock": "Meatblock",
+      "fluid.pee": "Pee",
+      "item.pizza_and_guns.blugoo_bucket": "Blugoo Bucket",
+      "block.pizza_and_guns.baengrass": "Baengrass",
+      "block.pizza_and_guns.putty": "Putty",
+      "item.pizza_and_guns.rhino_spawn_egg": "Rhino Spawn Egg",
+      "block.pizza_and_guns.penguin": "Penguin",
+      "item.pizza_and_guns.sportyarmor_boots": "Sporty Boots",
+      "item.pizza_and_guns.horn_pickaxe": "Horn Pickaxe",
+      "item.pizza_and_guns.spiderpickaxe": "Spiderpickaxe",
+      "item.pizza_and_guns.chocolate": "Chocolate",
+      "block.pizza_and_guns.cocoflower": "Cocoflower",
+      "item.pizza_and_guns.cocobean": "Cocobean",
+      "item.pizza_and_guns.diarrhea": "Diarrhea",
+      "item.pizza_and_guns.pee_bucket": "Pee Bucket",
+      "item.pizza_and_guns.bullet": "Bullet",
+      "item.pizza_and_guns.sportyarmor_helmet": "Sporty helmet",
+      "item.pizza_and_guns.pizza": "Pizza",
+      "item.pizza_and_guns.gun": "Gun",
+      "item.pizza_and_guns.blood_bucket": "Blood Bucket",
+      "item.pizza_and_guns.pankace": "Pankace",
+      "entity.pizza_and_guns.rhino": "Rhino",
+      "item.pizza_and_guns.mouse_spawn_egg": "Mouse Spawn Egg",
+      "item.pizza_and_guns.deathscyth": "Deathscyth",
+      "block.pizza_and_guns.ratblock": "Ratblock",
+      "item.pizza_and_guns.horn": "Horn",
+      "item.pizza_and_guns.sportyarmor_chestplate": "Sporty shest plate",
+      "entity.pizza_and_guns.mouse": "Mouse",
+      "item.pizza_and_guns.spidersaac": "Spidersaac",
+      "item.pizza_and_guns.egg": "fried egg",
+      "item.pizza_and_guns.ratessence": "Ratessence",
+      "item.pizza_and_guns.condentedmilk": "Condentedmilk",
+      "item.pizza_and_guns.diarrheapickaxe": "Diarrheapickaxe",
+      "item.pizza_and_guns.bacon": "Bacon",
+      "block.pizza_and_guns.diarrheablock": "Diarrheablock",
+      "item.pizza_and_guns.sportyarmor_leggings": "Sporty Leggings",
+      "item.pizza_and_guns.nerfbullet": "Nerfbullet",
+      "fluid.blugoo": "Blugoo",
+      "block.pizza_and_guns.sportyflower": "Sportyflower"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pizza_and_guns",
+    "modName": "pizza and guns",
+    "version": "1.0.0",
+    "author": "josia, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.pizzaandguns",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

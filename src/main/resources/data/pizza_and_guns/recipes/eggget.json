@@ -1,0 +1,16 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:egg",
+    "count": 1
+  }
+}

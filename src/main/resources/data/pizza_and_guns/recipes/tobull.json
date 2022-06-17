@@ -1,0 +1,19 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "result": {
+    "item": "pizza_and_guns:nerf",
+    "count": 3
+  }
+}

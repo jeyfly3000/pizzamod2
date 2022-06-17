@@ -1,0 +1,42 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_wool"
+    },
+    "1": {
+      "item": "minecraft:black_wool"
+    },
+    "2": {
+      "item": "minecraft:black_wool"
+    },
+    "3": {
+      "item": "minecraft:black_wool"
+    },
+    "4": {
+      "item": "pizza_and_guns:meatblock"
+    },
+    "5": {
+      "item": "minecraft:white_wool"
+    },
+    "6": {
+      "item": "minecraft:black_wool"
+    },
+    "7": {
+      "item": "minecraft:black_wool"
+    },
+    "8": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:penguin",
+    "count": 1
+  }
+}

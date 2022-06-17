@@ -1,0 +1,30 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pizza_and_guns:spidersaac"
+    },
+    "1": {
+      "item": "pizza_and_guns:spidersaac"
+    },
+    "2": {
+      "item": "pizza_and_guns:spidersaac"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:spiderpickaxe",
+    "count": 1
+  }
+}

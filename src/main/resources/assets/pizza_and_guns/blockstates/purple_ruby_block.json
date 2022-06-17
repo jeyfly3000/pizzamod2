@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "pizza_and_guns:block/purple_ruby_block"
+    },
+    "facing=north": {
+      "model": "pizza_and_guns:block/purple_ruby_block"
+    },
+    "facing=east": {
+      "model": "pizza_and_guns:block/purple_ruby_block",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "pizza_and_guns:block/purple_ruby_block",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "pizza_and_guns:block/purple_ruby_block",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "pizza_and_guns:block/purple_ruby_block",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

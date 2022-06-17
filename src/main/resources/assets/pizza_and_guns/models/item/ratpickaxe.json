@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "pizza_and_guns:items/abcdefg"
+  }
+}

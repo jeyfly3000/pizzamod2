@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Pee",
+    "textureStill": "pee2",
+    "textureFlowing": "pee2",
+    "luminosity": 70,
+    "density": 100,
+    "viscosity": 100,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "soul_sand_valley"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "pizza_and_guns:diarrheablock"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:diarrhea",
+    "count": 4
+  }
+}

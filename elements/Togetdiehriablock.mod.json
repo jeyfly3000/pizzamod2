@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Diarrheabrick"
+      },
+      {
+        "value": "CUSTOM:Diarrheabrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Diarrheabrick"
+      },
+      {
+        "value": "CUSTOM:Diarrheabrick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Diarrheablock"
+    },
+    "name": "togetdiehriablock",
+    "namespace": "mod"
+  }
+}

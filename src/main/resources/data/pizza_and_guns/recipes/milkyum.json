@@ -1,0 +1,19 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:milk_bucket"
+    },
+    "1": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:condentedmilk",
+    "count": 2
+  }
+}

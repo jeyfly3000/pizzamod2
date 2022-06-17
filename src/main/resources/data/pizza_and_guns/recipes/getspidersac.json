@@ -1,0 +1,22 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "pizza_and_guns:spidereggs"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "pizza_and_guns:spidereggs"
+    }
+  ],
+  "result": {
+    "item": "pizza_and_guns:spidersaac",
+    "count": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "pizza_and_guns:horn"
+    },
+    "1": {
+      "item": "pizza_and_guns:purple_ruby"
+    },
+    "2": {
+      "item": "pizza_and_guns:horn"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "pizza_and_guns:horn_pickaxe",
+    "count": 1
+  }
+}

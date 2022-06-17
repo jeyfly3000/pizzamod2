@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "sportop",
+    "enableBody": true,
+    "textureBody": "sportymid",
+    "enableLeggings": true,
+    "textureLeggings": "sportymid2",
+    "enableBoots": true,
+    "textureBoots": "sportybottom",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "spory_armor",
+    "helmetName": "Sporty helmet",
+    "bodyName": "Sporty shest plate",
+    "leggingsName": "Sporty Leggings",
+    "bootsName": "Sporty Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 60,
+    "damageValueHelmet": 50,
+    "damageValueBody": 50,
+    "damageValueLeggings": 50,
+    "damageValueBoots": 2,
+    "enchantability": 100,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": "block.nether_bricks.break"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Gun"
+      }
+    ]
+  }
+}

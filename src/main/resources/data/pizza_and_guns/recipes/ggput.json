@@ -1,0 +1,19 @@
+{
+  "group": "pizza_and_guns",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "item": "pizza_and_guns:putty",
+    "count": 1
+  }
+}
